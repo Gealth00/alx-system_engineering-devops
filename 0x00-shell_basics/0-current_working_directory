@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/correction/5474328945362068395275386055436152299671_5/205/140241/0x00-shell_basics
+chmod 755 pwd
