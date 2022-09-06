@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -iA "root" /etc/passwrd
+sort | grep -iA 3 "root" /etc/passwrd
