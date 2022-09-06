@@ -1,0 +1,2 @@
+#!/bin/bash
+tr -c [a,c] [z,e]
