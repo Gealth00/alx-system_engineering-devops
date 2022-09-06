@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type a -path './' -print | wc -l
+find . -type a -path './*' -print | wc -l
